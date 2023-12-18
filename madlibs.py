@@ -1,0 +1,5 @@
+name=input('enter the name')
+place=input('enter the place name')
+company=input('enter the company name')
+skill=input('enter the skills')
+print('my name is '+name+'. i completed my engineer in '+place+'. presently i am working in '+company+'. and my skills are '+skill+'.')
